@@ -1,5 +1,18 @@
 
 /* Your CSS Code here. */
 body{
-	background-color:azure;
+	background-color: wheat;
 }
+img{
+	border: 3px solid black;
+}
+h1{
+	background-color:azure;
+text-align:center;
+}
+#projects{
+	background-color:magenta;
+}
+
+
+
